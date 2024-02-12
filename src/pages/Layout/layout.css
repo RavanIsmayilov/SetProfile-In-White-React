@@ -1,0 +1,14 @@
+.lists{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content:space-around ;
+}
+
+.layout_main{
+    margin: 50px 0px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+

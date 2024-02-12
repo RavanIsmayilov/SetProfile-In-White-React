@@ -1,0 +1,25 @@
+.about_info{
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    justify-content: space-between;
+}
+.about_personal{
+    font-size: xx-large;
+}
+.about_icons{
+    display: flex;
+    justify-content: space-evenly;
+    width: 250px;
+}
+
+.about_btn{
+    width: 210px;
+    height: 65px;
+    border-radius: 10px;
+    font-size: 25px;
+    cursor: pointer;
+    border: none;
+    background-color: #000;
+    color: #fff;
+}
